@@ -5,9 +5,9 @@ export const projects: Project[] = [
     id: "Agri-Doctor",
     title: "Agri Doctor",
     description:
-      "A web application that connects farmers with agricultural experts for advice and support. Built with React, Node.js, and MongoDB.",
+      "موقع Agri Doctor على Vercel هو منصة رقمية مبتكرة تهدف إلى مساعدة المزارعين والبستانيين في تشخيص صحة نباتاتهم باستخدام تقنيات الذكاء الاصطناعي.",
     image: "/images/agridoctor.png",
-    technologies: ["React Native", "Firebase", "Redux", "Node.js"],
+    technologies: ["React js", "Next js", "Api gemini ", ],
     liveUrl: "https://agri-doctor.vercel.app/home",
     repoUrl: "https://github.com/bilalkarba/AgriDoctor",
   },
@@ -15,7 +15,7 @@ export const projects: Project[] = [
     id: "Souk-Bladi",
     title: "Souk Bladi",
     description:
-      "An e-commerce platform for Moroccan artisans to showcase and sell their handmade products. Built with React, Node.js, and MongoDB.",
+      "موقع souk-bladi.vercel.app هو منصة إلكترونية مغربية تهدف إلى تسهيل عملية شراء وبيع المنتجات المحلية عبر الإنترنت.",
     image: "/images/sookbladi.png",
     technologies: ["React", "Node.js", "MongoDB", "Express", "Stripe"],
     liveUrl: "https://souk-bladi.vercel.app/",
@@ -25,11 +25,11 @@ export const projects: Project[] = [
     id: "moroccan-recipes",
     title: "Moroccan Recipes App",
     description:
-      "A recipe app that showcases authentic Moroccan cuisine with video tutorials, ingredient lists, and step-by-step instructions. Built with Flutter and Firebase.",
+      "موقع karbach-chat.vercel.app هو تطبيق دردشة بسيط يعتمد على الذكاء الاصطناعي، يتم تشغيله على منصة Vercel. يبدو أنه يستخدم قالب الدردشة الافتراضي الذي توفره Vercel، والذي يعتمد على تقنيات مثل Next.js وVercel AI SDK.",
     image:
-      "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=800&q=80",
-    technologies: ["Flutter", "Firebase", "Dart", "Cloud Functions"],
-    liveUrl: "https://moroccan-recipes.example.com",
-    repoUrl: "https://github.com/bilalkarbach/moroccan-recipes",
+      "/images/karbachchat.png",
+    technologies: ['react js','Api gemini'],
+    liveUrl: "karbach-chat.vercel.app",
+    repoUrl: "https://github.com/bilalkarba/karbach-chat",
   },
 ];
