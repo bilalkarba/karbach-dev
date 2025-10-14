@@ -22,8 +22,8 @@ export const projects: Project[] = [
     repoUrl: "https://github.com/bilalkarba/souk-bladi",
   },
   {
-    id: "moroccan-recipes",
-    title: "Moroccan Recipes App",
+    id: "Karbach-chat",
+    title: "Karbach-chat",
     description:
       "موقع karbach-chat.vercel.app هو تطبيق دردشة بسيط يعتمد على الذكاء الاصطناعي، يتم تشغيله على منصة Vercel. يبدو أنه يستخدم قالب الدردشة الافتراضي الذي توفره Vercel، والذي يعتمد على تقنيات مثل Next.js وVercel AI SDK.",
     image:
